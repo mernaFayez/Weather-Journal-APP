@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "fnando.linter",
+        "dbaeumer.vscode-eslint"
+    ]
+}
